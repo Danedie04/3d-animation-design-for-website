@@ -65,6 +65,3 @@ Then visit `http://localhost:8080`.
 * Phone: +91 96000 52851
 * YouTube: [@Daneaideveloper](https://youtube.com/@japanimelovers)
 
----
-
-Would you like me to also create this as a proper **`README.md` file** (Markdown) that you can directly upload into your repo?
