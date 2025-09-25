@@ -1,6 +1,3 @@
-Here’s a clean **README.md** you can use for your GitHub repository. It explains your project (3D animated website using Three.js, GSAP, and HTML/CSS) and includes setup instructions:
-
----
 
 # 3D Animated Website – DaneAI
 
